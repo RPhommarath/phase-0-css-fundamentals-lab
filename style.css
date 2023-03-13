@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  margin: auto;
+}
+img {
+  margin: auto;
+}
+a {
+  nav-left: 10px;
+  nav-right: 10px;
+  background-color: gray;
+}
+p {
+  width: 800px;
+  margin: auto;
+}
+div {
+  float: left;
+  background-color: blue;
+  margin: auto;
+  width: 25%;
+}
